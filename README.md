@@ -120,6 +120,9 @@ You are not allowed to change the HTML
 
 **3. Menu**
 
+Files: [3-styles.css](3-styles.css/)
+
+[Watch Online](https://codepen.io/agzsoftsi/full/vYGZoLO)
 
 By using this HTML:
 
