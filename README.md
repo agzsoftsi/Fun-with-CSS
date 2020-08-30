@@ -80,6 +80,8 @@ default and appeared slowly…:
 
 Files: [2-styles.css](2-styles.css/)
 
+[Watch Online](https://codepen.io/agzsoftsi/full/vYGZoLO)
+
 By using this HTML:
 
 ```sh
