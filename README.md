@@ -49,6 +49,8 @@ You are not allowed to change the image and the HTML - sprite is cool!
 
 Files: [1-styles.css](1-styles.css/)
 
+[Watch Online](https://codepen.io/agzsoftsi/full/rNewbog)
+
 By using this HTML:
 
 ```sh
